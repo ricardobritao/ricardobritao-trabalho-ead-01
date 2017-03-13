@@ -1,0 +1,23 @@
+﻿label, input, select, textarea {
+  display : block;
+}
+
+input, select, textarea {
+  margin-bottom : 25px;
+}
+
+input {  
+  width : 350px;
+}
+
+table, th, td {
+  
+  border : 1px solid black;
+}
+
+table {
+  
+  margin : auto;
+}
+
+
